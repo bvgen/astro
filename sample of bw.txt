@@ -1,0 +1,2 @@
+01.01.2018;00:44;Jack pot
+01.01.2018;10:15:48;another lucky moment (total 277 lines in original file bw.txt)
