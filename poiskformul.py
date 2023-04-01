@@ -508,7 +508,7 @@ while xt < db:
     #в оригинале des = baz.Description[xt]    
     main_calc(time, tab, radix)
     # - - - - - - - - - - - - - - - - -
-    print(asp.loc[:19, ])
+    print(asp2.loc[:19, ])
     merc_planeta_i_ug_ne()     #сочетание планет, которое ищем
     # - - - - - - - - - - - - - - - - - 
     xt = xt + 1
